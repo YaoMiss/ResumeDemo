@@ -6,7 +6,8 @@
     git clone git@github.com:YaoMiss/ResumeDemo.git
     ```
 
-2. `cd ResumeDemo` and open the **index.html** in your bower
+2. `cd ResumeDemo` 
 
+3. open the **index.html** in your Browser
 
->(*bower* best for chrome,can save the PDF file in Printer)
+>(*Browser* best for chrome,can save the PDF file in Printer)
