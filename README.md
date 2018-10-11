@@ -1,4 +1,4 @@
-# Resume
+# Resume (程序员简历，修改成自己的简历)
 
 1. clone the project
 
@@ -6,4 +6,7 @@
     git clone git@github.com:YaoMiss/ResumeDemo.git
     ```
 
-2. `cd ResumeDemo` and open the **index.html** in your bower(best for chrome,can save the PDF file in Printer)
+2. `cd ResumeDemo` and open the **index.html** in your bower
+
+
+>(*bower* best for chrome,can save the PDF file in Printer)
